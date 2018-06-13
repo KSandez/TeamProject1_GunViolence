@@ -3,3 +3,4 @@ ACS_16_1YR_B02001_with_ann.csv,https://census.gov,Race by State (US Census ACS 2
 ACS_16_1YR_S0101_with_ann.csv,https://census.gov,Age and Sex by State (US Census ACS 2016 1-Year Estimate)
 b_guns_17.xlsx,http://www.statepolicyindex.com/data/,Firearms Policies by State
 gun_violence_massshooting_2014-2018.csv.gz,https://github.com/jamesqo/gun-violence-data,Gun Violence Archive
+Stanford_MSA_Database.csv,https://github.com/StanfordGeospatialCenter/MSA,Stanford Mass Shootings in America Database
